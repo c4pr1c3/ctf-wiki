@@ -195,3 +195,16 @@ U + [Hex]: `\U+0054\U+0068\U+0065`
 ### 题目
 
 ## HTML 实体编码
+
+## 五星级工具推荐 - CyberChef
+
+推荐一个加解密、编解码、压缩解压缩和数据分析辅助工具 [CyberChef](https://gchq.github.io/CyberChef/) 通过“所见即所得”和“管道式”操作，像做菜一样，一步一步的对输入数据进行自由编解码、字符替换、压缩解压缩等操作，可以用在CTF编解码类题目、数据分析、计算机取证分析等场景的数据变形、解混淆、解码、解密等需求。
+
+!!! 实战用例
+    Decoding multiple layers of obfuscation to discover DKMC PowerShell framework used in an internal pentest / or lateral movement?
+
+* VT https://www.virustotal.com/en/file/2badaa7119456760a2671b0ca75f222bfab62dfc40edcf7892398cf3682ad645/analysis/
+* Payload https://ghostbin.com/paste/qeumu
+* Last decoding step in CyberChef https://goo.gl/73A58V
+* DKMC https://github.com/Mr-Un1k0d3r/DKMC
+
